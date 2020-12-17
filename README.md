@@ -22,8 +22,6 @@ https://raw.githubusercontent.com/sasjs/viya-log-parser/master/runme.sas
 
 To deploy this app, first install the SASjs CLI - full instructions [here](https://cli.sasjs.io/installation/).
 
-Next, run `sasjs add` to prepare your target ([instructions](https://cli.sasjs.io/add/)).
-
 Then run  `sasjs cb` to prepare the deployment SAS script.
 
 It's also possible to build without using the SAS Script by running `sasjs add` (to authenticate) and `sasjs deploy` to deploy directly to Viya usin the APIs.  For this you will need the `"deployServicePack":true` attribute in your target.
