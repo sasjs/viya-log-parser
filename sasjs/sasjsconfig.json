@@ -1,0 +1,22 @@
+{
+  "cmnServices": [
+    "services/common"
+  ],
+  "useMacroCore": true,
+  "targets": [
+    {
+      "name": "viya",
+      "serverType": "SASVIYA",
+      "serverUrl": "",
+      "appLoc": "/Public/sasjs/log-parser",
+      "deployServicePack": false,
+      "tgtDeployScripts": [
+        "sasjs/build/copyscript.sh"
+      ],
+      "assetPaths": [],
+      "streamWeb": true,
+      "streamWebFolder": "webv",
+      "webSourcePath": "src"
+    }
+  ]
+}
