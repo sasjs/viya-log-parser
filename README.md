@@ -1,6 +1,8 @@
 # Viya Log Parser
 
-This is a simple utility for parsing Viya Log files from JSON to plain text format.
+This is a simple utility for parsing Viya Log files from JSON to plain text format.  An online version of this is available [here](https://sasjs.io/log-parser/).
+
+![sas viya log parser](https://sasjs.io/img/log-parser.png)
 
 ## Fast Deploy
 This app can be deployed as a streaming SAS app in two lines of code:
