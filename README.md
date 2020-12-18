@@ -12,7 +12,7 @@ filename mc url "https://raw.githubusercontent.com/sasjs/viya-log-parser/master/
 %inc mc;
 ```
 
-You can now open it at `YOURSERVER/SASJobExecution?_program=/Public/app/fileuploader/clickme`.
+You can now open it at `YOURSERVER/SASJobExecution?_program=/Public/app/viya-log-parser/clickme`.
 
 **NOTE** - in general, it is not recommended to execute code directly from the internet! Instead you can opt to navigate to the link below and copy paste it (after careful review) into your SAS Studio V session and run it directly.
 
