@@ -2,7 +2,7 @@
  "$schema": "https://cli.sasjs.io/sasjsconfig-schema.json",
  "serviceConfig": {
   "serviceFolders": [
-   "services/common"
+   "sasjs/services/common"
   ]
  },
   "targets": [
